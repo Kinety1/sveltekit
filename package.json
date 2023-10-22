@@ -23,7 +23,7 @@
     "vite": "^4.4.2"
   },
   "ampt": {
-    "org": "",
+    "org": "kinety1707720",
     "app": "sveltekit"
   },
   "type": "module",
