@@ -13,3 +13,5 @@ svelte
 package-lock.json
 **/static/**
 static
+**/_app/**
+/_app
