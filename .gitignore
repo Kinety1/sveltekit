@@ -11,3 +11,5 @@ vite.config.ts.timestamp-*
 .ampt
 svelte
 package-lock.json
+**/static/**
+static
